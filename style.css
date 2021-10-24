@@ -1,0 +1,11 @@
+body {
+    color: #1a1f38ec;
+}
+
+.jumbotron {
+    background-image: url("../images/hills3.jpg");
+    background-size: cover;
+    text-align: center;
+  }
+
+  
